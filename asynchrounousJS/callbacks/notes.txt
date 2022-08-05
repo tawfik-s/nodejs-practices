@@ -1,0 +1,10 @@
+
+
+fulfillled(resolved): it worked :)
+rejected: it didn't worked :(
+pending: still waiting :(
+settled something happened :(
+
+
+
+
